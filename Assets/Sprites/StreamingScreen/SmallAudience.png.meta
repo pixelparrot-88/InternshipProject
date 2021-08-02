@@ -1,0 +1,1260 @@
+fileFormatVersion: 2
+guid: ef914d41f25e3af41898486bd3bf851a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7636423840470935266
+    second: SmallAudience_0
+  - first:
+      213: 5610371735498178964
+    second: SmallAudience_1
+  - first:
+      213: -5294103286889520914
+    second: SmallAudience_2
+  - first:
+      213: -1077212450884010619
+    second: SmallAudience_3
+  - first:
+      213: -1632286390737581923
+    second: SmallAudience_4
+  - first:
+      213: 1072628592543501253
+    second: SmallAudience_5
+  - first:
+      213: 4649687048660947657
+    second: SmallAudience_6
+  - first:
+      213: 8050459626829484387
+    second: SmallAudience_7
+  - first:
+      213: -5264802277170232363
+    second: SmallAudience_8
+  - first:
+      213: -1805923729843151443
+    second: SmallAudience_9
+  - first:
+      213: 6401174911538310193
+    second: SmallAudience_10
+  - first:
+      213: 379522455811004974
+    second: SmallAudience_11
+  - first:
+      213: -545962751007982140
+    second: SmallAudience_12
+  - first:
+      213: -7246446780158912955
+    second: SmallAudience_13
+  - first:
+      213: -4046818085386171702
+    second: SmallAudience_14
+  - first:
+      213: -3695461651140391564
+    second: SmallAudience_15
+  - first:
+      213: -5822217994174671692
+    second: SmallAudience_16
+  - first:
+      213: -7174612358642111891
+    second: SmallAudience_17
+  - first:
+      213: -7635482455243598550
+    second: SmallAudience_18
+  - first:
+      213: 3425841554103104450
+    second: SmallAudience_19
+  - first:
+      213: 4901982847372230258
+    second: SmallAudience_20
+  - first:
+      213: -7987783986781982173
+    second: SmallAudience_21
+  - first:
+      213: -4809721317502751383
+    second: SmallAudience_22
+  - first:
+      213: 806862693520201762
+    second: SmallAudience_23
+  - first:
+      213: -4307567264579081302
+    second: SmallAudience_24
+  - first:
+      213: 549296068761735635
+    second: SmallAudience_25
+  - first:
+      213: -5170235561769949289
+    second: SmallAudience_26
+  - first:
+      213: 4843254819012819142
+    second: SmallAudience_27
+  - first:
+      213: 5199444446912462966
+    second: SmallAudience_28
+  - first:
+      213: -7276188835874311024
+    second: SmallAudience_29
+  - first:
+      213: -2630591015207224876
+    second: SmallAudience_30
+  - first:
+      213: -7658167040663576077
+    second: SmallAudience_31
+  - first:
+      213: -8930666570142605466
+    second: SmallAudience_32
+  - first:
+      213: 2147680758415541979
+    second: SmallAudience_33
+  - first:
+      213: -3550704706846292331
+    second: SmallAudience_34
+  - first:
+      213: -8033324467187556476
+    second: SmallAudience_35
+  - first:
+      213: -4815286899299125501
+    second: SmallAudience_36
+  - first:
+      213: -292562573359725352
+    second: SmallAudience_37
+  - first:
+      213: -4104196133850806235
+    second: SmallAudience_38
+  - first:
+      213: -4677897149815918764
+    second: SmallAudience_39
+  - first:
+      213: -982226646202686104
+    second: SmallAudience_40
+  - first:
+      213: -7680705508695440834
+    second: SmallAudience_41
+  - first:
+      213: 2193795762599629761
+    second: SmallAudience_42
+  - first:
+      213: 5983506218004700511
+    second: SmallAudience_43
+  - first:
+      213: 2498576659853285327
+    second: SmallAudience_44
+  - first:
+      213: -6067195124393942289
+    second: SmallAudience_45
+  - first:
+      213: 4532756404392323249
+    second: SmallAudience_46
+  - first:
+      213: -526980180170291860
+    second: SmallAudience_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SmallAudience_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6289df5070af960800000000000000
+      internalID: 7636423840470935266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491c2405e5b0cdd40800000000000000
+      internalID: 5610371735498178964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0e8b42c119786b0800000000000000
+      internalID: -5294103286889520914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d3e65bbf8fc01f0800000000000000
+      internalID: -1077212450884010619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_4
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98c1640d24f859e0800000000000000
+      internalID: -1632286390737581923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_5
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb8b7a950eb2ee00800000000000000
+      internalID: 1072628592543501253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_6
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c29b245cb1078040800000000000000
+      internalID: 4649687048660947657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_7
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3619bcf906af8bf60800000000000000
+      internalID: 8050459626829484387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_8
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3c998193aafe6b0800000000000000
+      internalID: -5264802277170232363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_9
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad10479fe110f6e0800000000000000
+      internalID: -1805923729843151443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_10
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c226bcaaa85d850800000000000000
+      internalID: 6401174911538310193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_11
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a16eaa9a5544500800000000000000
+      internalID: 379522455811004974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_12
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdf29545c95c68f0800000000000000
+      internalID: -545962751007982140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_13
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546dad8fb037f6b90800000000000000
+      internalID: -7246446780158912955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_14
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca4eed6460d6d7c0800000000000000
+      internalID: -4046818085386171702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_15
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dc2ba253517bcc0800000000000000
+      internalID: -3695461651140391564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_16
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4d45ce493533fa0800000000000000
+      internalID: -5822217994174671692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_17
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a62029218ae6c90800000000000000
+      internalID: -7174612358642111891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_18
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a255a765921590690800000000000000
+      internalID: -7635482455243598550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_19
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c376191eb80b8f20800000000000000
+      internalID: 3425841554103104450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_20
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27efda88d67570440800000000000000
+      internalID: 4901982847372230258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_21
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3227e4df8c0b52190800000000000000
+      internalID: -7987783986781982173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_22
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96def99d1ff604db0800000000000000
+      internalID: -4809721317502751383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_23
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22859c5485d823b00800000000000000
+      internalID: 806862693520201762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_24
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaba9a435627834c0800000000000000
+      internalID: -4307567264579081302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_25
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1df0f3ddd7f9700800000000000000
+      internalID: 549296068761735635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_26
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7972c9f4622af38b0800000000000000
+      internalID: -5170235561769949289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_27
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c835f3e892b63340800000000000000
+      internalID: 4843254819012819142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_28
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67048973d23282840800000000000000
+      internalID: 5199444446912462966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_29
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0947c0ffdc8c50b90800000000000000
+      internalID: -7276188835874311024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_30
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d93d3db8634e7bd0800000000000000
+      internalID: -2630591015207224876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_31
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1a4a6b6a9b8b590800000000000000
+      internalID: -7658167040663576077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_32
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f91373216ef0480800000000000000
+      internalID: -8930666570142605466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_33
+      rect:
+        serializedVersion: 2
+        x: 5544
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6cc4855481ecd10800000000000000
+      internalID: 2147680758415541979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_34
+      rect:
+        serializedVersion: 2
+        x: 5712
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5968e1ea1ec59bec0800000000000000
+      internalID: -3550704706846292331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_35
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fd4df95f5e38090800000000000000
+      internalID: -8033324467187556476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_36
+      rect:
+        serializedVersion: 2
+        x: 6048
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307feabd31aac2db0800000000000000
+      internalID: -4815286899299125501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_37
+      rect:
+        serializedVersion: 2
+        x: 6216
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4c15cb3eb90fbf0800000000000000
+      internalID: -292562573359725352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_38
+      rect:
+        serializedVersion: 2
+        x: 6384
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5288a497c57fa07c0800000000000000
+      internalID: -4104196133850806235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_39
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fe869a355c41fb0800000000000000
+      internalID: -4677897149815918764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_40
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8656a20c11e6e52f0800000000000000
+      internalID: -982226646202686104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_41
+      rect:
+        serializedVersion: 2
+        x: 6888
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3282d1b807a86590800000000000000
+      internalID: -7680705508695440834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_42
+      rect:
+        serializedVersion: 2
+        x: 7056
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c312837f9de17e10800000000000000
+      internalID: 2193795762599629761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_43
+      rect:
+        serializedVersion: 2
+        x: 7224
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dd28b043fa90350800000000000000
+      internalID: 5983506218004700511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_44
+      rect:
+        serializedVersion: 2
+        x: 7392
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc713aeeb3abca220800000000000000
+      internalID: 2498576659853285327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_45
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe264830e2efccba0800000000000000
+      internalID: -6067195124393942289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_46
+      rect:
+        serializedVersion: 2
+        x: 7728
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b86e292fe597ee30800000000000000
+      internalID: 4532756404392323249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAudience_47
+      rect:
+        serializedVersion: 2
+        x: 7896
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c654745715acfa8f0800000000000000
+      internalID: -526980180170291860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

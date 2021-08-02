@@ -1,0 +1,1260 @@
+fileFormatVersion: 2
+guid: 5e6f530a5257e9947a5d8f0dc9aba127
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4651722613763643466
+    second: PlayingMusic_0
+  - first:
+      213: -7086848973728123876
+    second: PlayingMusic_1
+  - first:
+      213: 5219985879435990003
+    second: PlayingMusic_2
+  - first:
+      213: -8118056395009929687
+    second: PlayingMusic_3
+  - first:
+      213: -1636326739312035397
+    second: PlayingMusic_4
+  - first:
+      213: -8867746372720819130
+    second: PlayingMusic_5
+  - first:
+      213: 893109592277973515
+    second: PlayingMusic_6
+  - first:
+      213: -6957671017564427308
+    second: PlayingMusic_7
+  - first:
+      213: 7170792477364363439
+    second: PlayingMusic_8
+  - first:
+      213: -8895862169375452563
+    second: PlayingMusic_9
+  - first:
+      213: -8844157633471211424
+    second: PlayingMusic_10
+  - first:
+      213: 1883132572108745659
+    second: PlayingMusic_11
+  - first:
+      213: 1764049255414589927
+    second: PlayingMusic_12
+  - first:
+      213: 4505225502734795476
+    second: PlayingMusic_13
+  - first:
+      213: -144131104874764108
+    second: PlayingMusic_14
+  - first:
+      213: -6795108098905034376
+    second: PlayingMusic_15
+  - first:
+      213: 3620436145378038789
+    second: PlayingMusic_16
+  - first:
+      213: 6536492536329550969
+    second: PlayingMusic_17
+  - first:
+      213: -7833949930632856608
+    second: PlayingMusic_18
+  - first:
+      213: -7378143714182342209
+    second: PlayingMusic_19
+  - first:
+      213: 5122977877935259014
+    second: PlayingMusic_20
+  - first:
+      213: -5867930321787000843
+    second: PlayingMusic_21
+  - first:
+      213: 6127535000803153416
+    second: PlayingMusic_22
+  - first:
+      213: 8054428475292674860
+    second: PlayingMusic_23
+  - first:
+      213: 8963456633225748969
+    second: PlayingMusic_24
+  - first:
+      213: -4836992070003372956
+    second: PlayingMusic_25
+  - first:
+      213: -6971190832476342943
+    second: PlayingMusic_26
+  - first:
+      213: -9091814302438327211
+    second: PlayingMusic_27
+  - first:
+      213: -2489590422635959341
+    second: PlayingMusic_28
+  - first:
+      213: 1888026796884922284
+    second: PlayingMusic_29
+  - first:
+      213: -6667687476696075348
+    second: PlayingMusic_30
+  - first:
+      213: -5140077375198546531
+    second: PlayingMusic_31
+  - first:
+      213: 4052923506670029667
+    second: PlayingMusic_32
+  - first:
+      213: 6372040200190988401
+    second: PlayingMusic_33
+  - first:
+      213: 8125578238060516113
+    second: PlayingMusic_34
+  - first:
+      213: 6320125111501006493
+    second: PlayingMusic_35
+  - first:
+      213: -3347537723588118122
+    second: PlayingMusic_36
+  - first:
+      213: -2879820961971621722
+    second: PlayingMusic_37
+  - first:
+      213: -7571779352027342708
+    second: PlayingMusic_38
+  - first:
+      213: 3299908747349661832
+    second: PlayingMusic_39
+  - first:
+      213: 7951201408548755875
+    second: PlayingMusic_40
+  - first:
+      213: -839768440944644132
+    second: PlayingMusic_41
+  - first:
+      213: -1014053273629453618
+    second: PlayingMusic_42
+  - first:
+      213: -1789723170715683153
+    second: PlayingMusic_43
+  - first:
+      213: -4791204386748526780
+    second: PlayingMusic_44
+  - first:
+      213: -112011431277193081
+    second: PlayingMusic_45
+  - first:
+      213: 3621476406310253142
+    second: PlayingMusic_46
+  - first:
+      213: 6979890334688234450
+    second: PlayingMusic_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayingMusic_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b767fcbde2c17fb0800000000000000
+      internalID: -4651722613763643466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14f718f76476ad90800000000000000
+      internalID: -7086848973728123876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3565c208d117840800000000000000
+      internalID: 5219985879435990003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e48d458bed65f80800000000000000
+      internalID: -8118056395009929687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_4
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb935de00899a49e0800000000000000
+      internalID: -1636326739312035397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_5
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64487b748af6fe480800000000000000
+      internalID: -8867746372720819130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_6
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0af8393176f46c00800000000000000
+      internalID: 893109592277973515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_7
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbaa06a213617f90800000000000000
+      internalID: -6957671017564427308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_8
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0a85304c5c38360800000000000000
+      internalID: 7170792477364363439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_9
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d625a8f3d7c8b8480800000000000000
+      internalID: -8895862169375452563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_10
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068936f9d7d334580800000000000000
+      internalID: -8844157633471211424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_11
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb6289d81b322a10800000000000000
+      internalID: 1883132572108745659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_12
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9674393792b7810800000000000000
+      internalID: 1764049255414589927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_13
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2c98b99b6c58e30800000000000000
+      internalID: 4505225502734795476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_14
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8ead41681fffdf0800000000000000
+      internalID: -144131104874764108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_15
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871b262af2de2b1a0800000000000000
+      internalID: -6795108098905034376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_16
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5041e390e7f5e3230800000000000000
+      internalID: 3620436145378038789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_17
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c3ae8745946ba50800000000000000
+      internalID: 6536492536329550969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_18
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebbe6c4b08384390800000000000000
+      internalID: -7833949930632856608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_19
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9516e02619b9990800000000000000
+      internalID: -7378143714182342209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_20
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68df38ebc39781740800000000000000
+      internalID: 5122977877935259014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_21
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f76423467ce09ea0800000000000000
+      internalID: -5867930321787000843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_22
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80615af3e90690550800000000000000
+      internalID: 6127535000803153416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_23
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b6c9a260417cf60800000000000000
+      internalID: 8054428475292674860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_24
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e12a074158946c70800000000000000
+      internalID: 8963456633225748969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_25
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c411ef65d8fdcb0800000000000000
+      internalID: -4836992070003372956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_26
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165b9c07fda514f90800000000000000
+      internalID: -6971190832476342943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_27
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cf85bff0363d180800000000000000
+      internalID: -9091814302438327211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_28
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dba19673b2337dd0800000000000000
+      internalID: -2489590422635959341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_29
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf8eba5e5e933a10800000000000000
+      internalID: 1888026796884922284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_30
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3b53e119d9773a0800000000000000
+      internalID: -6667687476696075348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_31
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95b44d4cd6caa8b0800000000000000
+      internalID: -5140077375198546531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_32
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bc5ecb470ee3830800000000000000
+      internalID: 4052923506670029667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_33
+      rect:
+        serializedVersion: 2
+        x: 5544
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17094e23dc80e6850800000000000000
+      internalID: 6372040200190988401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_34
+      rect:
+        serializedVersion: 2
+        x: 5712
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113dd3a3b5ad3c070800000000000000
+      internalID: 8125578238060516113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_35
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d962b0fad4895b750800000000000000
+      internalID: 6320125111501006493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_36
+      rect:
+        serializedVersion: 2
+        x: 6048
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6997f492d282b81d0800000000000000
+      internalID: -3347537723588118122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_37
+      rect:
+        serializedVersion: 2
+        x: 6216
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a035f0d712d808d0800000000000000
+      internalID: -2879820961971621722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_38
+      rect:
+        serializedVersion: 2
+        x: 6384
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88d5ccdbc2abe690800000000000000
+      internalID: -7571779352027342708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_39
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8881bf4a581abcd20800000000000000
+      internalID: 3299908747349661832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_40
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a95226cd87585e60800000000000000
+      internalID: 7951201408548755875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_41
+      rect:
+        serializedVersion: 2
+        x: 6888
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf29ef5d0b8854f0800000000000000
+      internalID: -839768440944644132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_42
+      rect:
+        serializedVersion: 2
+        x: 7056
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec29ef99beb5de1f0800000000000000
+      internalID: -1014053273629453618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_43
+      rect:
+        serializedVersion: 2
+        x: 7224
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6b4333240a927e0800000000000000
+      internalID: -1789723170715683153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_44
+      rect:
+        serializedVersion: 2
+        x: 7392
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f8f81cef8328db0800000000000000
+      internalID: -4791204386748526780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_45
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78890fb523e027ef0800000000000000
+      internalID: -112011431277193081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_46
+      rect:
+        serializedVersion: 2
+        x: 7728
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652b498aa91124230800000000000000
+      internalID: 3621476406310253142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayingMusic_47
+      rect:
+        serializedVersion: 2
+        x: 7896
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db4642474d8dd060800000000000000
+      internalID: 6979890334688234450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

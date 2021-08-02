@@ -1,0 +1,1260 @@
+fileFormatVersion: 2
+guid: 34f9fab5f9d288049834d8f5dbf0c429
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3323686954663300175
+    second: BigAudience_0
+  - first:
+      213: -4538997404620282750
+    second: BigAudience_1
+  - first:
+      213: -4351394866035531456
+    second: BigAudience_2
+  - first:
+      213: -2958793220284712374
+    second: BigAudience_3
+  - first:
+      213: 7976093063961751
+    second: BigAudience_4
+  - first:
+      213: 6401513846910982473
+    second: BigAudience_5
+  - first:
+      213: 2148410435209238770
+    second: BigAudience_6
+  - first:
+      213: 5927891739253299414
+    second: BigAudience_7
+  - first:
+      213: -924373699620585596
+    second: BigAudience_8
+  - first:
+      213: -4622222635591535490
+    second: BigAudience_9
+  - first:
+      213: 7929550578862750281
+    second: BigAudience_10
+  - first:
+      213: -4133140395304359285
+    second: BigAudience_11
+  - first:
+      213: -383540100270505377
+    second: BigAudience_12
+  - first:
+      213: -4775445389495443611
+    second: BigAudience_13
+  - first:
+      213: 8595083117267248857
+    second: BigAudience_14
+  - first:
+      213: 6612441390339717977
+    second: BigAudience_15
+  - first:
+      213: 2529795422868206614
+    second: BigAudience_16
+  - first:
+      213: -6367741366458792318
+    second: BigAudience_17
+  - first:
+      213: 2972998374911440359
+    second: BigAudience_18
+  - first:
+      213: 66280919914977144
+    second: BigAudience_19
+  - first:
+      213: -1171423301434794605
+    second: BigAudience_20
+  - first:
+      213: -4759866756386192422
+    second: BigAudience_21
+  - first:
+      213: 7496104013430195442
+    second: BigAudience_22
+  - first:
+      213: -228674411139254094
+    second: BigAudience_23
+  - first:
+      213: 7947306195451172038
+    second: BigAudience_24
+  - first:
+      213: -8103204888471755009
+    second: BigAudience_25
+  - first:
+      213: 2973495033692824482
+    second: BigAudience_26
+  - first:
+      213: 9180817404161946237
+    second: BigAudience_27
+  - first:
+      213: -7107570220925549506
+    second: BigAudience_28
+  - first:
+      213: -2486950734858821907
+    second: BigAudience_29
+  - first:
+      213: -943981794400891265
+    second: BigAudience_30
+  - first:
+      213: -8046159874093675372
+    second: BigAudience_31
+  - first:
+      213: -3740166355522019315
+    second: BigAudience_32
+  - first:
+      213: 3326656014054500282
+    second: BigAudience_33
+  - first:
+      213: 1084591156111045880
+    second: BigAudience_34
+  - first:
+      213: 9026808789207901678
+    second: BigAudience_35
+  - first:
+      213: -498127145595116423
+    second: BigAudience_36
+  - first:
+      213: 5666276786405203282
+    second: BigAudience_37
+  - first:
+      213: -1006337958250518516
+    second: BigAudience_38
+  - first:
+      213: 6942338227994476417
+    second: BigAudience_39
+  - first:
+      213: 4170335841942478774
+    second: BigAudience_40
+  - first:
+      213: -6437909227950047934
+    second: BigAudience_41
+  - first:
+      213: 7561561080326814199
+    second: BigAudience_42
+  - first:
+      213: 8235032727344115296
+    second: BigAudience_43
+  - first:
+      213: -1122236444373029292
+    second: BigAudience_44
+  - first:
+      213: -1124212323725878866
+    second: BigAudience_45
+  - first:
+      213: 8398256211070843703
+    second: BigAudience_46
+  - first:
+      213: 5506626081071173390
+    second: BigAudience_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BigAudience_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c4e45fcab102e20800000000000000
+      internalID: 3323686954663300175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284203db8ed3201c0800000000000000
+      internalID: -4538997404620282750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0416e7c8c6dbc93c0800000000000000
+      internalID: -4351394866035531456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a78151e3140f6d0800000000000000
+      internalID: -2958793220284712374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_4
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cd5c1e6365c1000800000000000000
+      internalID: 7976093063961751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_5
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9499fd55deeb6d850800000000000000
+      internalID: 6401513846910982473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_6
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8936678efa0dd10800000000000000
+      internalID: 2148410435209238770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_7
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d85a29212a144250800000000000000
+      internalID: 5927891739253299414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_8
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fb66a8407fb23f0800000000000000
+      internalID: -924373699620585596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_9
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74fbc4a0019adfb0800000000000000
+      internalID: -4622222635591535490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_10
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a7b992d3c6b0e60800000000000000
+      internalID: 7929550578862750281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_11
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ae01375b224a6c0800000000000000
+      internalID: -4133140395304359285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_12
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5242469f446daaf0800000000000000
+      internalID: -383540100270505377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_13
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fd8da38b53abdb0800000000000000
+      internalID: -4775445389495443611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_14
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6eba37e8ed74770800000000000000
+      internalID: 8595083117267248857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_15
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bf949096c14cb50800000000000000
+      internalID: 6612441390339717977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_16
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614f77e9883ab1320800000000000000
+      internalID: 2529795422868206614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_17
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286c9a607fc31a7a0800000000000000
+      internalID: -6367741366458792318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_18
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5f8663546324920800000000000000
+      internalID: 2972998374911440359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_19
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8771bee352a7be000800000000000000
+      internalID: 66280919914977144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_20
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d1d5cb6b44ebfe0800000000000000
+      internalID: -1171423301434794605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_21
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad30967676e81fdb0800000000000000
+      internalID: -4759866756386192422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_22
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f403e752e2870860800000000000000
+      internalID: 7496104013430195442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_23
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8b2daa5d593dcf0800000000000000
+      internalID: -228674411139254094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_24
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4d02dc0e08a4e60800000000000000
+      internalID: 7947306195451172038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_25
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6ae682612ab8f80800000000000000
+      internalID: -8103204888471755009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_26
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a326a89af9f34920800000000000000
+      internalID: 2973495033692824482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_27
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72fbca79c0d86f70800000000000000
+      internalID: 9180817404161946237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_28
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e348695aa86dc5d90800000000000000
+      internalID: -7107570220925549506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_29
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deed7daab739c7dd0800000000000000
+      internalID: -2486950734858821907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_30
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e8c463f8d46e2f0800000000000000
+      internalID: -943981794400891265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_31
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c05a2993c465090800000000000000
+      internalID: -8046159874093675372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_32
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d002e321482481cc0800000000000000
+      internalID: -3740166355522019315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_33
+      rect:
+        serializedVersion: 2
+        x: 5544
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7a2a7f408aa2e20800000000000000
+      internalID: 3326656014054500282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_34
+      rect:
+        serializedVersion: 2
+        x: 5712
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4778af8ed3d0f00800000000000000
+      internalID: 1084591156111045880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_35
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee56c1884caa54d70800000000000000
+      internalID: 9026808789207901678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_36
+      rect:
+        serializedVersion: 2
+        x: 6048
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974e2d1100c4619f0800000000000000
+      internalID: -498127145595116423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_37
+      rect:
+        serializedVersion: 2
+        x: 6216
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d59bc47b8a2ae40800000000000000
+      internalID: 5666276786405203282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_38
+      rect:
+        serializedVersion: 2
+        x: 6384
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c086c7275f4c802f0800000000000000
+      internalID: -1006337958250518516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_39
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fb93616d3285060800000000000000
+      internalID: 6942338227994476417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_40
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf9f055a5200e930800000000000000
+      internalID: 4170335841942478774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_41
+      rect:
+        serializedVersion: 2
+        x: 6888
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24df3dbaaa3f7a6a0800000000000000
+      internalID: -6437909227950047934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_42
+      rect:
+        serializedVersion: 2
+        x: 7056
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f97c4c5dbf00f860800000000000000
+      internalID: 7561561080326814199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_43
+      rect:
+        serializedVersion: 2
+        x: 7224
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eef0b62a6b84270800000000000000
+      internalID: 8235032727344115296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_44
+      rect:
+        serializedVersion: 2
+        x: 7392
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ee52356e30d60f0800000000000000
+      internalID: -1122236444373029292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_45
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9d33019def560f0800000000000000
+      internalID: -1124212323725878866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_46
+      rect:
+        serializedVersion: 2
+        x: 7728
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b789137899c8470800000000000000
+      internalID: 8398256211070843703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigAudience_47
+      rect:
+        serializedVersion: 2
+        x: 7896
+        y: 0
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f0621de377b6c40800000000000000
+      internalID: 5506626081071173390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
